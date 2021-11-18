@@ -1,4 +1,5 @@
 logs
 .wdm
+.idea
 geckodriver.log
 reports
